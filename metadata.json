@@ -1,0 +1,6 @@
+{
+  "name": "PixelCraft Editor",
+  "description": "A web-based image editing application that allows users to upload, crop, filter, and adjust their photos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
